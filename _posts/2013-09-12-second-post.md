@@ -6,21 +6,8 @@ layout: post
  It was the second day of my trip. In the morning, We visited Adobe company. 
  
  <Adobe>
-![20190801_145818](https://user-images.githubusercontent.com/53938323/62821906-5b7f7600-bbb7-11e9-84bc-add435cefc41.jpg)
-![20190801_153132](https://user-images.githubusercontent.com/53938323/62821907-5c180c80-bbb7-11e9-82d7-52a3ac61c3de.jpg)
-![20190801_153228](https://user-images.githubusercontent.com/53938323/62821908-5c180c80-bbb7-11e9-9836-d9316b247c88.jpg)
-![20190801_161748](https://user-images.githubusercontent.com/53938323/62821909-5c180c80-bbb7-11e9-90cf-25cd46a382a9.jpg)
-![20190801_182535](https://user-images.githubusercontent.com/53938323/62821898-4e628700-bbb7-11e9-8e8e-f48750b00544.jpg)
-![20190801_115057](https://user-images.githubusercontent.com/53938323/62821900-4efb1d80-bbb7-11e9-9193-2ca621c5f32b.jpg)
-![20190801_112908](https://user-images.githubusercontent.com/53938323/62821901-4efb1d80-bbb7-11e9-87e1-3d7bc25e1700.jpg)
-![20190801_103715](https://user-images.githubusercontent.com/53938323/62821902-4f93b400-bbb7-11e9-8d55-011c1a39ccd4.jpg)
-![20190801_102926](https://user-images.githubusercontent.com/53938323/62821903-4f93b400-bbb7-11e9-8ef9-a2a7bb24a259.jpg)
-![20190801_094059](https://user-images.githubusercontent.com/53938323/62821904-4f93b400-bbb7-11e9-8a55-46130989f537.jpg)
-![20190801_092710](https://user-images.githubusercontent.com/53938323/62821916-5d493980-bbb7-11e9-940f-5fbd35c464bc.jpg)
-![20190801_201219](https://user-images.githubusercontent.com/53938323/62821917-5d493980-bbb7-11e9-9d10-a9d2ce0a6293.jpg)
-![20190801_142141](https://user-images.githubusercontent.com/53938323/62821918-5d493980-bbb7-11e9-93d8-9a6696e98efa.jpg)
-![20190801_145257](https://user-images.githubusercontent.com/53938323/62821919-5de1d000-bbb7-11e9-92a3-fd0209c6a805.jpg)
-  
+![20190801_092710](https://user-images.githubusercontent.com/53938323/62821955-f7a97d00-bbb7-11e9-991a-4cf8d2894b6e.jpg)
+ 
  It was so sunny. But not so wet. We took bus and went to Adobe Building... may be we arrived at the East Building. We got pictures in front of the Logo. As follow..
  
  <Adobe self shot>
