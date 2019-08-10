@@ -6,7 +6,6 @@ layout: post
  It was the second day of my trip. In the morning, We visited Adobe company. 
  
  <Adobe>
-
  
  It was so sunny. But not so wet. We took bus and went to Adobe Building... may be we arrived at the East Building. We got pictures in front of the Logo. As follow..
  
