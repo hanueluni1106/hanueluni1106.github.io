@@ -28,4 +28,5 @@ You should take a deep nap in flight. Because you need Parallax adaptation.
 ![KakaoTalk_20190809_152324190](https://user-images.githubusercontent.com/53938323/62821013-55ce6400-bba8-11e9-87de-632e4485fbbe.jpg)
 And..I advise you to take slipper(which is laid at your flight) into your hotel. In U.S, the floor is carpeted...
 
-![20190801_092710](https://user-images.githubusercontent.com/53938323/62821995-5969e700-bbb8-11e9-94b4-c1435b04d013.jpg)
+
+
