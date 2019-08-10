@@ -31,6 +31,7 @@ And I heard that they have earned by PhotoShop...but now they earn by advising s
  
 After visiting Adobe, we went to Google. Site of Google headquarters is so wide that we confused to arrive at the appointment. But don't worry, we arrived on time there! We ate lunch with two Google employees. 
 
+
 lunch photo
 ![20190801_103715](https://user-images.githubusercontent.com/53938323/62822032-f4fb5780-bbb8-11e9-8889-d459cd7a7641.jpg)
 
