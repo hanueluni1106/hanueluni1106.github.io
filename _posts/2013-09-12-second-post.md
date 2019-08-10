@@ -1,72 +1,59 @@
 ---
-title: Second Post
-author: Chris
+title: 1 August ,2019
+author: Kim SeongYoon
 layout: post
 ---
+ It was the second day of my trip. In the morning, We visited Adobe company. 
+ 
+ <Adobe>
+  
+ It was so sunny. But not so wet. We took bus and went to Adobe Building... may be we arrived at the East Building. We got pictures in front of the Logo. As follow..
+ 
+ <Adobe self shot>
+  
+ Ah...I got a name tag but I took a few seconds to recognize that it's my name tag. Bacause part of name had been deleted!
+ In Adobe, I could see lots of wellness facilities. I thought Adobe(But maybe many companies in Silicon Valley have good wellness system.) take care of employees' health(also mental health. And after the visiting, Adobe is one of the best companies which employees want to join) 
+ 
+ Let's talks about Adobe!
+Adobe has three buildings and now they build a new building nearby. 
 
-Lorem ipsum dolor sit amet, harum malorum nominavi mea et. Atqui maluisset duo cu, summo dignissim voluptatum sit ut. Ad quo quidam delicatissimi. Cum nihil noster patrioque id. Per at maiorum definitiones. Cu vix sint aliquip. No duo alia sale persecuti.
+<Abode's new building>
 
-Pri id consul meliore luptatum, vix iudico impetus salutatus eu, duo at causae admodum complectitur. Qui eu salutandi dignissim, ea dictas audire commodo eos, vim cu autem dicam. Novum placerat moderatius sea ex, debet labitur reprehendunt mei ad. Tempor theophrastus et est, id tollit ponderum usu, at vis consul detraxit. Sit ut adhuc aeque.
+And I heard that they have earned by PhotoShop...but now they earn by advising such as ...they advise customers to how to advertise their products.   
+ 
+After visiting Adobe, we went to Google. Site of Google headquarters is so wide that we confused to arrive at the appointment. But don't worry, we arrived on time there! We ate lunch with two Google employees. 
 
-Ut eum labore antiopam. Cum eu modus rationibus. Illud deleniti cum cu. At vix illum vitae tation, solet oporteat complectitur at vel. Vim te simul eleifend, et per insolens conceptam, ad sint posidonium est. Ad vocent propriae principes duo.
+<lunch photo>
 
-<span class="image right"><img src="{{ 'assets/images/pic03.jpg' | relative_url }}" alt="" /></span>
+One works in Google search backend dpt. And the other works in Google Assistant. I could hear their experiences. Before listening, I just had known that google search's results were considered by the frequency of related words and they just use Page Ranks. But they aren't. They also consider photos, links! And their data was so big that they can't easily take care of..(==updates) Um.. They compare the updates of fixing up libraries. The amount of knowledges(data) are getting bigger but they need to fix up and new methods that how to rearrange the datas efficiently. Also in library, new books are piled up.. and librarians constantly arrange them. If new category is needed, they need new solution...So these processes are in progress in Google search! 
 
-Audire periculis id vis, cum eu sonet option patrioque, his dicam sanctus imperdiet ad. Ad sonet dolorum est. Eu dolore adipisci volutpat mei, eu nec nisl molestiae. Usu ad veri omnesque pertinacia, duis scripserit ad nam. Quo id eligendi legendos.
+After lunch, I and my friends took pictures @ Google.
 
-Eos cu partiendo vituperatoribus. Mel id duis delenit atomorum, mei tamquam nostrum ne, id eum hinc decore mediocrem. Mei feugiat habemus tincidunt ut, atqui detraxit ex usu. Vix ad commodo eripuit alienum, an has idque delicatissimi. Dolores reformidans mel ne, duis numquam disputando quo te.
+Then we went to Google souvenir center. I suggest you to buy a green and white coat( It was so cool)
 
-Eum eu tritani accusata qualisque, pro ei purto vocent. Vim in insolens hendrerit similique. Nobis munere antiopam ei vix. Cum no labore partiendo conceptam. Sea id vide viderer mandamus, magna posidonium nam at. Ad populo persius duo, vel audire detracto scribentur ut.
+<At souvenir center>
+  
+And we visited computer history museum. Thanks to Hyunggon Yoo, We just paid at a discount.
 
-Vim te fastidii sententiae. Vix ad facilis gloriatur, mei an diceret iracundia vituperatoribus. Iudico consetetur dissentiunt pri ut. Consul dictas pri ne. Nec an alia volumus scaevola, eos movet deleniti argumentum te. Latine abhorreant his ad, ut modus in the following table:
+<google search>
+Is this really Google search window?
+  
+<James Gosling>
+  
+I know him! I heard the name in the Lecture.
 
-<div class="table-wrapper">
-  <table>
-    <thead>
-      <tr>
-        <th>Name</th>
-        <th>Description</th>
-        <th>Price</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Item 1</td>
-        <td>Ante turpis integer aliquet porttitor.</td>
-        <td>29.99</td>
-      </tr>
-      <tr>
-        <td>Item 2</td>
-        <td>Vis ac commodo adipiscing arcu aliquet.</td>
-        <td>19.99</td>
-      </tr>
-      <tr>
-        <td>Item 3</td>
-        <td> Morbi faucibus arcu accumsan lorem.</td>
-        <td>29.99</td>
-      </tr>
-      <tr>
-        <td>Item 4</td>
-        <td>Vitae integer tempus condimentum.</td>
-        <td>19.99</td>
-      </tr>
-      <tr>
-        <td>Item 5</td>
-        <td>Ante turpis integer aliquet porttitor.</td>
-        <td>29.99</td>
-      </tr>
-    </tbody>
-    <tfoot>
-      <tr>
-        <td colspan="2"></td>
-        <td>100.00</td>
-      </tr>
-    </tfoot>
-  </table>
-</div>
+I didn't know but now I think I was very busy that day....XD
 
-Amet illum at sea, est autem fabulas eu, quod nonumes lobortis no sed. Has ei fugit adipisci reprimique. Enim tamquam ornatus pri ei. Alii harum invidunt nec ex, pri vidit latine ne. Has vocent nominati rationibus ad, ex partiendo prodesset moderatius has, vim quod paulo ad. Ex nec etiam electram, pri illud appetere eu.
+After the visiting, we went to Apple Visitor center. But, nothing special...I just wanna visit Apple headquarters. :(
 
-An nobis instructior eos, eam libris aperiam corrumpit ex. Case omnesque eu per. Et vix iisque tritani. Autem posidonium eu vis, sit et mutat brute. Usu ne postulant intellegat omittantur, mazim saperet adolescens mel at.
+<Apple visitor center>
+  
+In the evening, we went to thai restaurant and ate dinner. Ah..I hate smell of coriander, I hardly ate the meal...
+I just ate  salmon steak...
 
-Nam at velit percipit detraxit, quas modus mea ut. Ius an natum doctus vivendum. Quo at debet vidisse viderer, mollis eripuit ex nec. Sed ut choro saepe, sale augue sea et. His nemore dolorum mnesarchum at, ius an adipisci aliquando, laoreet placerat ea ius.
+<avoid coriander....memo...>
+  
+  
+
+
+
