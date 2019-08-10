@@ -6,7 +6,7 @@ layout: post
  It was the second day of my trip. In the morning, We visited Adobe company. 
  
  <Adobe>
-![20190801_092710](https://user-images.githubusercontent.com/53938323/62821955-f7a97d00-bbb7-11e9-991a-4cf8d2894b6e.jpg)
+![20190801_092710](53938323/62821966-1871d280-bbb8-11e9-9db8-411a6d45080f.jpg)
  
  It was so sunny. But not so wet. We took bus and went to Adobe Building... may be we arrived at the East Building. We got pictures in front of the Logo. As follow..
  
