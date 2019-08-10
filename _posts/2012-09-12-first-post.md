@@ -8,7 +8,7 @@ layout: post
 tags: `Beginning to a New World`
 ---
 
-file:///C:/Users/Administrator/Desktop/KakaoTalk_20190809_152324190.jpg
+![KakaoTalk_20190809_162425615](https://user-images.githubusercontent.com/50694610/62820694-d1c5ad80-bba2-11e9-85bc-e26e5f1bef1c.jpg)
 
 Wednesday 31th of July, 2019
 
@@ -16,7 +16,7 @@ I was so nervous. Because this trip was an overseas trip for the first time in f
 
 
 
-file:///C:/Users/Administrator/Desktop/KakaoTalk_20190809_162425615.jpg
+
 
 ## In Flight
 
