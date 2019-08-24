@@ -7,7 +7,7 @@ layout: post
  
  Adobe
  
-<img src="C:\Users\Administrator\Desktop\All" width="200px" height="150px">
+<img src="C:\Users\Administrator\Desktop\All\KakaoTalk_20190810_185138358" width="200px" height="150px">
 
 ![20190801_092710](https://user-images.githubusercontent.com/53938323/62822096-b31ee100-bbb9-11e9-9b9a-6d951594b327.jpg)
  
